@@ -1,4 +1,4 @@
-package dumpir
+package dumpir;
 
 public abstract class Akun {
     private int id;
