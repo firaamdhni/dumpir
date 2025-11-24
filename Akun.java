@@ -1,4 +1,4 @@
-package dumpir;
+package UASLabPBOB_3;
 
 public abstract class Akun {
     private int id;
