@@ -1,4 +1,4 @@
-package dumpir
+package UASLabPBOB_3;
 
 public class RestaurantApp {
     public static void main(String[] args) {
