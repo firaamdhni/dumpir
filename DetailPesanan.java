@@ -1,4 +1,4 @@
-package dummyUASLabPBOB_3;
+package UASLabPBOB_3;
 
 public class DetailPesanan {
     private MenuItem item;
