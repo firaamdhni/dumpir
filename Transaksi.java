@@ -1,4 +1,4 @@
-package dumpir;
+package UASLabPBOB_3;
 
 import java.util.Scanner;
 
